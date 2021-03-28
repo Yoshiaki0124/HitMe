@@ -154,7 +154,7 @@ DEPENDENCIES
   listen (~> 3.3)
   mysql2 (~> 0.5)
   puma (~> 5.0)
-  rails (~> 6.1.1)
+  rails (= 6.1.1)
   spring
   tzinfo-data
 
